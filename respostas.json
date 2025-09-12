@@ -1,0 +1,6 @@
+{
+  "ficha": "Para criar uma ficha, siga os passos: escolha uma classe, distribua atributos, selecione habilidades e registre o histórico do personagem.",
+  "dados": "Os dados utilizados no jogo são D4, D6, D8, D10, D12 e D20. O D20 é usado para testes principais.",
+  "combate": "No combate, cada jogador age por turnos. Rola-se o D20 para ataque e o dano varia conforme a arma."
+}
+
