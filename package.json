@@ -1,20 +1,23 @@
 {
   "name": "fortalezas-magicas",
   "version": "1.0.0",
-  "description": "Interface de IA Fortalezas Mágicas",
+  "description": "IA para o jogo Fortalezas Mágicas com Google Gemini",
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "dev": "node server.js"
   },
-  "keywords": [],
-  "author": "Elias",
-  "license": "MIT",
   "dependencies": {
-    "@google/generative-ai": "^0.24.1",
-    "cors": "^2.8.5",
-    "dotenv": "^16.6.1",
     "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
     "node-fetch": "^3.3.2"
+  },
+  "keywords": ["ai", "gemini", "jogo", "fortalezas-magicas"],
+  "author": "Elias Cauã",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
