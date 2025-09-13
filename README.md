@@ -2,11 +2,11 @@
 
 IA especializada no jogo **Fortalezas Mágicas** usando Google Gemini API.
 
-## 🚀 Como Usar
+## Como Usar
 
 1. Acesse: [https://fortalezas-magicas.vercel.app](https://fortalezas-magicas.vercel.app)
 2. Faça perguntas sobre o jogo
-3. Receba respostas mágicas! ✨
+3. Receba respostas!
 
 ## 🛠️ Tecnologias
 
